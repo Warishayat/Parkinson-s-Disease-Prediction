@@ -49,7 +49,7 @@ This project is licensed under the MIT License.
 
 ## Queries 
 <br>
-if you have any Query/Question and want to approcah me for your project you can approach me via mail warishayat666@gmai.com
+if you have any Query/Question and want to approcah me for your project you can approach me via mail #warishayat666@gmai.com
 <br>
 if you like my work kindly hit the #BUTTON and also kick the star.
 
