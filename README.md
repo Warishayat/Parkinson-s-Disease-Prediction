@@ -2,7 +2,7 @@
 
 This project focuses on predicting Parkinson's Disease using machine learning techniques. The main goal is to analyze the dataset, clean the data by removing outliers, and train different classification models to find the best predictive performance.
 
-Dataset Link:https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection
+Dataset Link: https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection
 <br>
 NoteBook Link: https://github.com/Warishayat/Parkinson-s-Disease-Prediction
 
